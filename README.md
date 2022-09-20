@@ -1,1 +1,1 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://github.com/happyDevRD/happyDevRD?page_id=page.id)
