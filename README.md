@@ -1,5 +1,12 @@
 <h1 align="center">Hola 👋, soy Eleazar García</h1>
 <h3 align="center">Un apasionado desarrollador FullStack de la República Dominicana</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/garciaeleazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garciaeleazar" height="30" width="20" /></a>
+<a href="https://medium.com/@ing.eleazargarcia98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ing.eleazargarcia98" height="30" width="20" /></a>
+<a href="https://www.hackerrank.com/@ing_garcia98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ing_garcia98" height="30" width="20" /></a>
+<a href="https://www.leetcode.com/happydev77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="happydev77" height="30" width="20" /></a>
+</p>
 
 
 - 🔭 Actualmente estoy trabajando en [HotelManagementSystem](dsad)
@@ -8,17 +15,10 @@
 
 - 👯 Estoy buscando colaborar en **notificación**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rtkxk78blj07qwhvli08y0w9g&cover_image=true&theme=default&bar_color=64bd61&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rtkxk78blj07qwhvli08y0w9g&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rtkxk78blj07qwhvli08y0w9g&cover_image=true&theme=default&bar_color=64bd61&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rtkxk78blj07qwhvli08y0w9g&redirect=true) 
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=happydevrd&label=Profile%20views&color=0e75b6&style=flat" alt="happydevrd" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/garciaeleazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garciaeleazar" height="30" width="40" /></a>
-<a href="https://medium.com/@ing.eleazargarcia98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ing.eleazargarcia98" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ing_garcia98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ing_garcia98" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/happydev77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="happydev77" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
